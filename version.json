@@ -3,7 +3,7 @@
   "packageVersion": "0.1.0",
   "createdAt": "2026-10-06T07:36:36.103Z",
   "basePath": "/life-rpg-play/",
-  "status": "verified-local-trial-not-deployed",
+  "status": "verified-static-trial",
   "fullRegression": "469 passed",
   "mainBackupVersion": 16,
   "guidanceDraftVersion": 12,
@@ -152,5 +152,7 @@
   ],
   "verifiedAt": "2026-10-06T07:48:25.889Z",
   "coreTests": "540 passed",
-  "sourceSnapshotFiles": 471
+  "sourceSnapshotFiles": 471,
+  "siteUrl": "https://cadenxc.com/life-rpg-play/",
+  "firstPublishedAt": "2026-10-06T08:07:24.652Z"
 }
