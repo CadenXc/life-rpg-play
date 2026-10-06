@@ -1,0 +1,156 @@
+{
+  "version": "0.1.0-local-trial.20261006",
+  "packageVersion": "0.1.0",
+  "createdAt": "2026-10-06T07:36:36.103Z",
+  "basePath": "/life-rpg-play/",
+  "status": "verified-local-trial-not-deployed",
+  "fullRegression": "469 passed",
+  "mainBackupVersion": 16,
+  "guidanceDraftVersion": 12,
+  "suggestionProtocolVersion": 1,
+  "files": [
+    {
+      "path": "assets/Adventure-DM44chke.js",
+      "size": 182789,
+      "sha256": "7ed8fcb33c98332bb7fcd366df30024fb5b85218576aef6d72ae403ec48992a4"
+    },
+    {
+      "path": "assets/Adventure-xaHkItkE.css",
+      "size": 25580,
+      "sha256": "79025efe8ac130b6473834e33441c5152dde229ccc79897fd3d2041dc73bf728"
+    },
+    {
+      "path": "assets/afterlight-methods-Ciy0C2pX.js",
+      "size": 2308,
+      "sha256": "28a00ba67bc922215706812b40acad95d6fa511d5042d59eb274028a52cb1b2d"
+    },
+    {
+      "path": "assets/DraftManager-Dc4GynyB.js",
+      "size": 23226,
+      "sha256": "748b9098bafd0154427ba14941531476f6ebea92a9850c00167e0e4be368a126"
+    },
+    {
+      "path": "assets/GoalStarterMethodEditor-D5xklhBR.css",
+      "size": 482,
+      "sha256": "6a07a57b86a4d3119e11cfeed978e1d7808e829540812140051eae3ae3d4f3f1"
+    },
+    {
+      "path": "assets/GoalStarterMethodEditor-nKMpDUs1.js",
+      "size": 8621,
+      "sha256": "a59a37a42e93b8616b1971f4babc4f46c4baef55b33b490cb18bb0181b3c71a5"
+    },
+    {
+      "path": "assets/Growth-C6siFIbH.js",
+      "size": 25539,
+      "sha256": "6fc0a5b908a16b0ff1d04da99a640845686fcb2de1dc5d9c4e135476296b0f2d"
+    },
+    {
+      "path": "assets/Growth-DDgmdCTf.css",
+      "size": 4543,
+      "sha256": "32a163f7dd57ee3f49ea6fb3d8d4951e07e7040e69cbbb1636d4bd07ed6b8ca8"
+    },
+    {
+      "path": "assets/guidance-drafts-B2KnLCgI.css",
+      "size": 5169,
+      "sha256": "fa689e9322e81b9463da94a2df0d39d79865176f0de71dd17b64bb4c80480ff7"
+    },
+    {
+      "path": "assets/guidance-drafts-CJt8X9Ya.js",
+      "size": 11449,
+      "sha256": "778835b1aa28ff8b80b0db33da80e8f19c69b38a065f7139d3c398cbed8407e4"
+    },
+    {
+      "path": "assets/GuidanceEditor-BVzl4Qaq.js",
+      "size": 148584,
+      "sha256": "2e4448bd63e9062988e0ac192ed3de91398480572d123b78a0786ecb1fb2b8c9"
+    },
+    {
+      "path": "assets/GuidanceEditor-D4t4OGaB.css",
+      "size": 4491,
+      "sha256": "6d0ea82d8a513c40e86a22fa5d83fb4fa6708cc23a622b620e1283d4b1133328"
+    },
+    {
+      "path": "assets/index-D1P0G9HM.css",
+      "size": 41306,
+      "sha256": "977f314c9f0e9aede09a0729da6a7f99275de1bb0ee4d9a6b1ac0f679ec5936d"
+    },
+    {
+      "path": "assets/index-DsDVcObc.js",
+      "size": 414133,
+      "sha256": "07b0f4ed6c1afedf2805019d75e7ed9e21e60c3953bcce59e238d42a55ab2b6b"
+    },
+    {
+      "path": "assets/model-C4-xfyuG.js",
+      "size": 54926,
+      "sha256": "1a7bd0355f7dd15692cca42f4b93203d7cdc079344746da2487ee8f39601ee02"
+    },
+    {
+      "path": "assets/QuickCaptureEditor-CHA7uYyT.js",
+      "size": 16552,
+      "sha256": "4369efdb347deb0204e2fca38be9be21d6cbe8d59d85afcf1a9884a77e767069"
+    },
+    {
+      "path": "assets/QuickCaptureEditor-fOGJyLlU.css",
+      "size": 380,
+      "sha256": "c71f12feba8205836ab820ae5bfc66e0d93a0de89f29cb4b554c35bc80ea69af"
+    },
+    {
+      "path": "assets/RecordRecovery-Du4NPuEv.js",
+      "size": 4984,
+      "sha256": "d9317adfee0a2553c874b10550e3bda53c5aadb4b95987e1e5971c9f8da7c8fd"
+    },
+    {
+      "path": "assets/rolldown-runtime-CbXtAM7H.js",
+      "size": 589,
+      "sha256": "bbf7c5086ae414dc3f33777e3eebf16ea8631325b8bb4690d25091c03567f31a"
+    },
+    {
+      "path": "assets/save-B2F4LPle.js",
+      "size": 327,
+      "sha256": "ac58b0dea5f7a357e2517d34843ea0b94d894d3e25d2c8e0d56f249be938858c"
+    },
+    {
+      "path": "assets/starter-methods-B4kHSOUg.js",
+      "size": 1485,
+      "sha256": "25db03c8e4f8161f9645cd4f82d55ce03813325484e0579e3d367f998aad9e8b"
+    },
+    {
+      "path": "assets/StarterMethodEditor-tTVbejVC.js",
+      "size": 3609,
+      "sha256": "8d9416bbd1e8c6db690c045e54d193dc751a30555c5bbe3976a7e8294e03b585"
+    },
+    {
+      "path": "assets/StarterScopeMarker-Dgn2WF2s.js",
+      "size": 2842,
+      "sha256": "12a1c356dd5efb1a8a2a4c2509b7817622af9e40577ff416bdd49dd9ca841b9a"
+    },
+    {
+      "path": "assets/StepCaptureEditor-d5bzFYoy.js",
+      "size": 13599,
+      "sha256": "45d5d01db06bab90644256575ec3209875736f839c5752a9b78c230cfb053635"
+    },
+    {
+      "path": "assets/StepCaptureEditor-DQ6X0mfZ.css",
+      "size": 320,
+      "sha256": "1df141f86f00f73a0a8e21b15eedbd9ef6a35d149e838a131023e28c782fd34e"
+    },
+    {
+      "path": "assets/ui-runtime-Dy-GIXkn.js",
+      "size": 218833,
+      "sha256": "6e6dcd4abf81fe24cc734fddac8cddcfd68fb888353c40807059fb21859e427d"
+    },
+    {
+      "path": "assets/use-dialog-focus-GIVwrTPO.js",
+      "size": 89993,
+      "sha256": "f5de6d86107110be7e0f4a9e14e978adce8a68393a0454141d0388c146f230f7"
+    },
+    {
+      "path": "index.html",
+      "size": 877,
+      "sha256": "e3e48c4f24c12abcc70fe35bb8109a34a6ad1b7f123950464a0d625770ffc825"
+    }
+  ],
+  "verifiedAt": "2026-10-06T07:48:25.889Z",
+  "coreTests": "540 passed",
+  "sourceSnapshotFiles": 471
+}

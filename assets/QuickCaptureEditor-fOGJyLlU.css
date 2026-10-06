@@ -1,0 +1,1 @@
+.quick-capture-modal{width:min(760px,100vw - 2rem)}.quick-capture-list{gap:1rem;display:grid}.quick-capture-row{overflow-wrap:anywhere;border:1px solid var(--line,#d8dfca);border-radius:.6rem;min-width:0;padding:1rem}.quick-capture-row .phase-reference-condition{margin:.6rem 0}.quick-capture-modal textarea{min-height:8rem}.quick-capture-modal .record-modal-body{padding:1.1rem}
