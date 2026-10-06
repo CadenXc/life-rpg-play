@@ -1,23 +1,26 @@
 {
-  "version": "0.1.0-local-trial.20261006",
+  "version": "0.1.0-companion-trial.20261006",
   "packageVersion": "0.1.0",
-  "createdAt": "2026-10-06T07:36:36.103Z",
+  "createdAt": "2026-10-06T14:30:15.386Z",
   "basePath": "/life-rpg-play/",
-  "status": "verified-static-trial",
-  "fullRegression": "469 passed",
-  "mainBackupVersion": 16,
+  "status": "validated-static-trial",
+  "siteUrl": "https://cadenxc.com/life-rpg-play/",
+  "sourceCommit": "c42337e832cf4bc243388b4f57eaae64a979898d",
+  "coreChecks": "623 passed",
+  "fullRegression": "534 passed",
+  "mainBackupVersion": 17,
   "guidanceDraftVersion": 12,
   "suggestionProtocolVersion": 1,
   "files": [
     {
-      "path": "assets/Adventure-DM44chke.js",
-      "size": 182789,
-      "sha256": "7ed8fcb33c98332bb7fcd366df30024fb5b85218576aef6d72ae403ec48992a4"
+      "path": "assets/Adventure-DImXCjlH.css",
+      "size": 32404,
+      "sha256": "561bef7683ce0236168ccdbd4e5b38dfb649255533a7532b2f36dbfceb592ae8"
     },
     {
-      "path": "assets/Adventure-xaHkItkE.css",
-      "size": 25580,
-      "sha256": "79025efe8ac130b6473834e33441c5152dde229ccc79897fd3d2041dc73bf728"
+      "path": "assets/Adventure-Dxfz18kw.js",
+      "size": 223456,
+      "sha256": "44ad7428bdecea0efab625c62a7a218f6a3e40db89961522b44ce77b6183ca86"
     },
     {
       "path": "assets/afterlight-methods-Ciy0C2pX.js",
@@ -25,9 +28,39 @@
       "sha256": "28a00ba67bc922215706812b40acad95d6fa511d5042d59eb274028a52cb1b2d"
     },
     {
-      "path": "assets/DraftManager-Dc4GynyB.js",
-      "size": 23226,
-      "sha256": "748b9098bafd0154427ba14941531476f6ebea92a9850c00167e0e4be368a126"
+      "path": "assets/companion-dawn-content-BHDW8eKo.js",
+      "size": 39318,
+      "sha256": "c15fd039af1e57e7074988176fa6b75a5ac04b633f6bac9c59d16ae843cc4bd1"
+    },
+    {
+      "path": "assets/companion-dawn-state-DBy7EmeF.js",
+      "size": 8107,
+      "sha256": "0a5f2b087e858501050cd42eb76abb0bc615b47ea37546dba1a6c004f4ce4a3f"
+    },
+    {
+      "path": "assets/CompanionPresence-BFir78cQ.js",
+      "size": 2883,
+      "sha256": "3e3d7f97ab91a782cea7e99296f319169f62abac301843ec40319e29e3b09f3f"
+    },
+    {
+      "path": "assets/CompanionPresence-enpP6EIl.css",
+      "size": 1199,
+      "sha256": "76a49f9dd1a3a2c3d8b71f64faf98019a45cce612e43444af9505f73973fc630"
+    },
+    {
+      "path": "assets/CompanionRememberedWords-BykrGstK.js",
+      "size": 2380,
+      "sha256": "2c7b92e977bcb037e2a3e13ef62971a5d782e85478e96f5d2ab7850cdd643f8b"
+    },
+    {
+      "path": "assets/DraftManager-CDtXHIor.js",
+      "size": 23217,
+      "sha256": "78f333a0ef8a0824bed24d1c960fbd8adedc63338c7a4b1b04e4c6410fa6f202"
+    },
+    {
+      "path": "assets/flame-GLpSGXbh.js",
+      "size": 278,
+      "sha256": "558316dab137ce42f3f01089b6a002b1507142d5e46c106b23d972154d773aaa"
     },
     {
       "path": "assets/GoalStarterMethodEditor-D5xklhBR.css",
@@ -35,14 +68,14 @@
       "sha256": "6a07a57b86a4d3119e11cfeed978e1d7808e829540812140051eae3ae3d4f3f1"
     },
     {
-      "path": "assets/GoalStarterMethodEditor-nKMpDUs1.js",
+      "path": "assets/GoalStarterMethodEditor-yDs0BYw9.js",
       "size": 8621,
-      "sha256": "a59a37a42e93b8616b1971f4babc4f46c4baef55b33b490cb18bb0181b3c71a5"
+      "sha256": "2e74f731d39752fbc0dd9e57b4661b90be09ab61ffaedb7e606113b79b89aeb7"
     },
     {
-      "path": "assets/Growth-C6siFIbH.js",
-      "size": 25539,
-      "sha256": "6fc0a5b908a16b0ff1d04da99a640845686fcb2de1dc5d9c4e135476296b0f2d"
+      "path": "assets/Growth-BNH86gZI.js",
+      "size": 28452,
+      "sha256": "73092ec3511599d75b9fa0a796d0e4cf04e84d52c60e2a0629cb1ee48ba8e8f2"
     },
     {
       "path": "assets/Growth-DDgmdCTf.css",
@@ -55,14 +88,14 @@
       "sha256": "fa689e9322e81b9463da94a2df0d39d79865176f0de71dd17b64bb4c80480ff7"
     },
     {
-      "path": "assets/guidance-drafts-CJt8X9Ya.js",
-      "size": 11449,
-      "sha256": "778835b1aa28ff8b80b0db33da80e8f19c69b38a065f7139d3c398cbed8407e4"
+      "path": "assets/guidance-drafts-Cr2qfNKa.js",
+      "size": 11440,
+      "sha256": "8af0e5aa8a3261469bb162a21ccfcb689f2cd59d403d2c3d80a63bbb8bdab870"
     },
     {
-      "path": "assets/GuidanceEditor-BVzl4Qaq.js",
-      "size": 148584,
-      "sha256": "2e4448bd63e9062988e0ac192ed3de91398480572d123b78a0786ecb1fb2b8c9"
+      "path": "assets/GuidanceEditor-Cm1jsUua.js",
+      "size": 148583,
+      "sha256": "29ea0e70933b31a51030102c7c5adb6fc842f1d1d50c14d65ef6aae308808700"
     },
     {
       "path": "assets/GuidanceEditor-D4t4OGaB.css",
@@ -70,24 +103,24 @@
       "sha256": "6d0ea82d8a513c40e86a22fa5d83fb4fa6708cc23a622b620e1283d4b1133328"
     },
     {
+      "path": "assets/index-4zdml7V8.js",
+      "size": 432040,
+      "sha256": "e98cf9a7d8dc897a7cd2705954ff5a90c3b72bca0d7592f2d33bfaaceb3c821c"
+    },
+    {
       "path": "assets/index-D1P0G9HM.css",
       "size": 41306,
       "sha256": "977f314c9f0e9aede09a0729da6a7f99275de1bb0ee4d9a6b1ac0f679ec5936d"
     },
     {
-      "path": "assets/index-DsDVcObc.js",
-      "size": 414133,
-      "sha256": "07b0f4ed6c1afedf2805019d75e7ed9e21e60c3953bcce59e238d42a55ab2b6b"
+      "path": "assets/model-CLxhCz5F.js",
+      "size": 57289,
+      "sha256": "f82a420df00e5fa7841de41292c41910d23797124b3a11415f83cc44e6d6b279"
     },
     {
-      "path": "assets/model-C4-xfyuG.js",
-      "size": 54926,
-      "sha256": "1a7bd0355f7dd15692cca42f4b93203d7cdc079344746da2487ee8f39601ee02"
-    },
-    {
-      "path": "assets/QuickCaptureEditor-CHA7uYyT.js",
-      "size": 16552,
-      "sha256": "4369efdb347deb0204e2fca38be9be21d6cbe8d59d85afcf1a9884a77e767069"
+      "path": "assets/QuickCaptureEditor-Bfgi-H_T.js",
+      "size": 16499,
+      "sha256": "32770b9367291821e8a2c36d087cb29fff97a4f437af6ccc4604534a72942c87"
     },
     {
       "path": "assets/QuickCaptureEditor-fOGJyLlU.css",
@@ -95,39 +128,39 @@
       "sha256": "c71f12feba8205836ab820ae5bfc66e0d93a0de89f29cb4b554c35bc80ea69af"
     },
     {
-      "path": "assets/RecordRecovery-Du4NPuEv.js",
-      "size": 4984,
-      "sha256": "d9317adfee0a2553c874b10550e3bda53c5aadb4b95987e1e5971c9f8da7c8fd"
+      "path": "assets/RecordRecovery-D6rA45pf.js",
+      "size": 4975,
+      "sha256": "a87e125c08ed4aa8890203e50647307fd8534a5d21596f0636ad87ca8c859a2c"
     },
     {
-      "path": "assets/rolldown-runtime-CbXtAM7H.js",
-      "size": 589,
-      "sha256": "bbf7c5086ae414dc3f33777e3eebf16ea8631325b8bb4690d25091c03567f31a"
-    },
-    {
-      "path": "assets/save-B2F4LPle.js",
+      "path": "assets/save-BT9ehB12.js",
       "size": 327,
-      "sha256": "ac58b0dea5f7a357e2517d34843ea0b94d894d3e25d2c8e0d56f249be938858c"
+      "sha256": "87d9307f25331bdf324081fc0f4be6bb286b4ddfbf6f27ebf445bc547a7e335a"
     },
     {
-      "path": "assets/starter-methods-B4kHSOUg.js",
-      "size": 1485,
-      "sha256": "25db03c8e4f8161f9645cd4f82d55ce03813325484e0579e3d367f998aad9e8b"
+      "path": "assets/schemas-PZ0PPHXt.js",
+      "size": 87353,
+      "sha256": "425b3a7d83baaa44b08574f4adb9a5e6a2ad66c0ead257018d1896fef9c5e52f"
     },
     {
-      "path": "assets/StarterMethodEditor-tTVbejVC.js",
-      "size": 3609,
-      "sha256": "8d9416bbd1e8c6db690c045e54d193dc751a30555c5bbe3976a7e8294e03b585"
+      "path": "assets/starter-method-state-DbSxgKtt.js",
+      "size": 1886,
+      "sha256": "632321654002c5ea2e954b7857b5f53ff5d486438b7b4c8dd8f6e83d8f25b751"
     },
     {
-      "path": "assets/StarterScopeMarker-Dgn2WF2s.js",
-      "size": 2842,
-      "sha256": "12a1c356dd5efb1a8a2a4c2509b7817622af9e40577ff416bdd49dd9ca841b9a"
+      "path": "assets/starter-methods-Cr-YsDAv.js",
+      "size": 1489,
+      "sha256": "fbfca76f1f196f97c9976ed10912e172b2662a019d98d4f2e62c7ee18af85a61"
     },
     {
-      "path": "assets/StepCaptureEditor-d5bzFYoy.js",
-      "size": 13599,
-      "sha256": "45d5d01db06bab90644256575ec3209875736f839c5752a9b78c230cfb053635"
+      "path": "assets/StarterMethodEditor-sLCv_MOz.js",
+      "size": 3600,
+      "sha256": "f17f3cfeb1376ef91e761f12dfb9af2ffcbc816646413fb63c1cd6e6cca46e2a"
+    },
+    {
+      "path": "assets/StarterScopeMarker-B9WPls7c.js",
+      "size": 2837,
+      "sha256": "8c511f478301287fed4218d9d29d254db67308e3040806be2f199fca1e37f1d3"
     },
     {
       "path": "assets/StepCaptureEditor-DQ6X0mfZ.css",
@@ -135,24 +168,24 @@
       "sha256": "1df141f86f00f73a0a8e21b15eedbd9ef6a35d149e838a131023e28c782fd34e"
     },
     {
-      "path": "assets/ui-runtime-Dy-GIXkn.js",
-      "size": 218833,
-      "sha256": "6e6dcd4abf81fe24cc734fddac8cddcfd68fb888353c40807059fb21859e427d"
+      "path": "assets/StepCaptureEditor-dxgE2gzL.js",
+      "size": 13590,
+      "sha256": "313e3bb50cecebc9baa29e70bc7ba6bac5b8d69057de0ce9c38994591bec9a66"
     },
     {
-      "path": "assets/use-dialog-focus-GIVwrTPO.js",
-      "size": 89993,
-      "sha256": "f5de6d86107110be7e0f4a9e14e978adce8a68393a0454141d0388c146f230f7"
+      "path": "assets/ui-runtime-DtRjDyCW.js",
+      "size": 218824,
+      "sha256": "11fc5521b3831bec4dd4c0d185bb491216cef45acf1b806ca22f8319c3683813"
+    },
+    {
+      "path": "assets/use-dialog-focus-CrcYbxAw.js",
+      "size": 1364,
+      "sha256": "8f5c09e6921d567c29ab7592331c84d7afe6300f43b2bf0b2f4ad46a231343e9"
     },
     {
       "path": "index.html",
-      "size": 877,
-      "sha256": "e3e48c4f24c12abcc70fe35bb8109a34a6ad1b7f123950464a0d625770ffc825"
+      "size": 1078,
+      "sha256": "716a25a98ef981ad16592a42736a245c87eb66812e751c6fba42cc589dcc4b31"
     }
-  ],
-  "verifiedAt": "2026-10-06T07:48:25.889Z",
-  "coreTests": "540 passed",
-  "sourceSnapshotFiles": 471,
-  "siteUrl": "https://cadenxc.com/life-rpg-play/",
-  "firstPublishedAt": "2026-10-06T08:07:24.652Z"
+  ]
 }
