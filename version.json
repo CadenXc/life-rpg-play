@@ -1,20 +1,20 @@
 {
-  "version": "0.1.0-daily-actions-trial.20261007",
+  "version": "0.1.0-ai-guidance-trial.20261007",
   "packageVersion": "0.1.0",
-  "createdAt": "2026-10-07T03:10:49.183Z",
+  "createdAt": "2026-10-07T10:22:19.676Z",
   "basePath": "/life-rpg-play/",
-  "status": "built-static-trial",
+  "status": "validated-static-trial",
   "typecheck": "passed",
   "productionBuild": "passed-with-chunk-size-warning",
-  "fullRegression": "not-run-for-this-candidate",
+  "fullRegression": "passed: 667 tests covered; initial 660 pass, the two corrected cases passed in isolated reruns, and relevant suites fully passed",
   "mainBackupVersion": 18,
   "guidanceDraftVersion": 12,
   "suggestionProtocolVersion": 1,
   "files": [
     {
-      "path": "assets/AbilitySources-CKJObyLe.js",
+      "path": "assets/AbilitySources-Cit5CNYh.js",
       "size": 22099,
-      "sha256": "0b7ef501ff351cd92d58bfc6d4013ca51d24dd9b4ba8624fdcdf407a8ea2a95a"
+      "sha256": "828d78df3e9bfd21dfd0fc9ea35e8419c0bc3afaa9d370c9b8d38348f599988e"
     },
     {
       "path": "assets/AbilitySources-D9xehR6C.css",
@@ -27,119 +27,9 @@
       "sha256": "9425ee46ab23ab4051b10363f3e485165753bd0391880b0246929d344c2ce0a8"
     },
     {
-      "path": "assets/Adventure-QDd1TXAw.js",
+      "path": "assets/Adventure-Dj5KWqkL.js",
       "size": 231410,
-      "sha256": "ef3c26c70255f507b4e7c87b7c90c11a4d128a92b58381410f1c4c378e60f581"
-    },
-    {
-      "path": "assets/CompanionPresence-D3Yasrc6.js",
-      "size": 2966,
-      "sha256": "29ae4e6bbece4e760108f2269614916fce52b853c3f545e572d1c9cb0381ef9c"
-    },
-    {
-      "path": "assets/CompanionRememberedWords-BkaFlXTX.js",
-      "size": 2724,
-      "sha256": "3aaa7a99af58201f5ce8397718a09ade88e59c46d67c04adc7b433e7d70607da"
-    },
-    {
-      "path": "assets/DailyPlanDialog-6g8oKFwJ.js",
-      "size": 17208,
-      "sha256": "a69bb50f04cb3eaa31c0a13308d0f561f90791cbd22dec59a6c9097b67f67335"
-    },
-    {
-      "path": "assets/DraftManager-BYI1iwsD.js",
-      "size": 23267,
-      "sha256": "823520d3e6d02a02b382781b95c1909d2920078d9e34840dbf1b06943ee05837"
-    },
-    {
-      "path": "assets/GoalStarterMethodEditor-D5xklhBR.css",
-      "size": 482,
-      "sha256": "6a07a57b86a4d3119e11cfeed978e1d7808e829540812140051eae3ae3d4f3f1"
-    },
-    {
-      "path": "assets/GoalStarterMethodEditor-DF0P_-1s.js",
-      "size": 8621,
-      "sha256": "e1a311c8df65166151c4badfa06f41a3d8ec6688423d4dbbdf067a422459bdbe"
-    },
-    {
-      "path": "assets/Growth-BUXozbJh.css",
-      "size": 4777,
-      "sha256": "f00ca1da3f28daf9e715925913fc14181433dc071026cd910d633c0a8a1272b2"
-    },
-    {
-      "path": "assets/Growth-CGkWZEPp.js",
-      "size": 26058,
-      "sha256": "fce25d43102c552bbc4cf3017ffd2991360a5c09b526746ffb9863a71b826e2a"
-    },
-    {
-      "path": "assets/GrowthOpportunity-CaLzY-BN.css",
-      "size": 596,
-      "sha256": "37fe811df18c83df2a22f192fd5ff3657cd4e52dfe1677ca052f93fdcd7c6acf"
-    },
-    {
-      "path": "assets/GrowthOpportunity-DBAkzdrX.js",
-      "size": 41948,
-      "sha256": "e1e8509ced773dc3a83f4b65fb7cb9c868d195877404cd20e16c659ae4600560"
-    },
-    {
-      "path": "assets/GuidanceEditor-Bk6BlCxG.css",
-      "size": 5072,
-      "sha256": "bfe5be850b05df64a696618f0d8854e82742fd8bb5cc0e979723c440e0264682"
-    },
-    {
-      "path": "assets/GuidanceEditor-CENZ6M1X.js",
-      "size": 103466,
-      "sha256": "f41b60e7d2477ec4203bdd2df8b6ea13fe616485a5f3e1c45810b31bf2f7736f"
-    },
-    {
-      "path": "assets/LocalConditionClues-DtlwsymU.js",
-      "size": 48432,
-      "sha256": "254a910b6dfb0252cb7f69d212a455423ed4e859e17b91e86c441ddb4fe97128"
-    },
-    {
-      "path": "assets/MilestoneFeedback-BjFVTMrh.js",
-      "size": 1578,
-      "sha256": "506c50d44c39352e48134ccaa3929d5a7b5297dc7d61da4a0d329371312229ba"
-    },
-    {
-      "path": "assets/MilestoneFeedback-m_Kg2Zb3.css",
-      "size": 778,
-      "sha256": "4a7c8acb5d31866a743efd4c3eef486dd414f6add778bb5160604169e7fdb441"
-    },
-    {
-      "path": "assets/QuickCaptureEditor-fOGJyLlU.css",
-      "size": 380,
-      "sha256": "c71f12feba8205836ab820ae5bfc66e0d93a0de89f29cb4b554c35bc80ea69af"
-    },
-    {
-      "path": "assets/QuickCaptureEditor-tpmZ4vwv.js",
-      "size": 16494,
-      "sha256": "c5bf234b55005862ddc2f2e3c261a2ea096118b1ad919d1b99a9aa2dc5a24af4"
-    },
-    {
-      "path": "assets/RecordRecovery-BNHkbIGB.js",
-      "size": 4975,
-      "sha256": "25135fd5f81a55d0a9d3475db6c0e2159743624160582d2b7ecfe717762b1dd5"
-    },
-    {
-      "path": "assets/StarterMethodEditor-EEH_dgN4.js",
-      "size": 3600,
-      "sha256": "d1fd4544295c0341711328012199db9a5c6ba31b02096ecb9e4b33a565805972"
-    },
-    {
-      "path": "assets/StarterScopeMarker-D3p1GFQp.js",
-      "size": 2837,
-      "sha256": "def33f44d478ef5c7346d3284903c958061979e5faac7cd6547a89dfadbf2d79"
-    },
-    {
-      "path": "assets/StepCaptureEditor-8idLgiYI.css",
-      "size": 804,
-      "sha256": "46fb859515144f2b712297a5ab0d372c24bec3a1cfd388a47cee55f9e26a0dd5"
-    },
-    {
-      "path": "assets/StepCaptureEditor-D651zaxI.js",
-      "size": 15468,
-      "sha256": "1f4c6859c2855f90416e8e4994c6d5270e0d56895c272f4ec86ee75c44bf4fa2"
+      "sha256": "d48e313697fea847eb9ac0f906a807b39c864947213a225c71594f5764d25918"
     },
     {
       "path": "assets/companion-dawn-state-jVogSISM.js",
@@ -147,9 +37,9 @@
       "sha256": "2fede990c557e2f608eea27257dd57014de0f6a78c1cef7cd77ef1592c75b546"
     },
     {
-      "path": "assets/companion-ferry-journal-Dia0fPTA.js",
+      "path": "assets/companion-ferry-journal-BX4c6CyN.js",
       "size": 53041,
-      "sha256": "9d9a1e8a7638c7aa863afbaab6bebafddf9612761f0a73bbd9e5e261a8734c03"
+      "sha256": "18c701795d5d172607f859b219cae7d0e02682e830936f28251bf50bda196ec3"
     },
     {
       "path": "assets/companion-ferry-meta-Czv_ZwZE.js",
@@ -162,9 +52,69 @@
       "sha256": "074ef8d1bf0f56ee4c19aa31d5e014b60cca35eb7878bec7f802bb9e5240abdd"
     },
     {
+      "path": "assets/CompanionPresence-_rmZqaq2.js",
+      "size": 2966,
+      "sha256": "42199f5d9b5497887d0d24a5a82bdc730af8c22985625eb4cd64d04aa1121499"
+    },
+    {
+      "path": "assets/CompanionRememberedWords-DG8S2kci.js",
+      "size": 2724,
+      "sha256": "c97699cced161c2a55468a6485e0daa93a886be5da9041e059441f71498b2265"
+    },
+    {
+      "path": "assets/DailyPlanDialog-NVDkR3B0.js",
+      "size": 17208,
+      "sha256": "f4089f4fb41d7164710fc2a4a066ced9ed812f32ab887de6e1c0edb9384a6b69"
+    },
+    {
+      "path": "assets/DraftManager-BcwRAf6b.js",
+      "size": 23267,
+      "sha256": "9585471925dc33d4ee9b95ddb1033660181b093766da4f5a88eab67097d4c592"
+    },
+    {
+      "path": "assets/GoalStarterMethodEditor-D5xklhBR.css",
+      "size": 482,
+      "sha256": "6a07a57b86a4d3119e11cfeed978e1d7808e829540812140051eae3ae3d4f3f1"
+    },
+    {
+      "path": "assets/GoalStarterMethodEditor-r42aAZLV.js",
+      "size": 8621,
+      "sha256": "db527c9185e571f08f487da23a245d86af49b1e346ca8cb59d0ca4035c6039ab"
+    },
+    {
+      "path": "assets/Growth-BnKEu1RF.js",
+      "size": 26058,
+      "sha256": "ada7907554efc0c93624ce9e843e5b394778b592cf1abf306775f547126459a3"
+    },
+    {
+      "path": "assets/Growth-BUXozbJh.css",
+      "size": 4777,
+      "sha256": "f00ca1da3f28daf9e715925913fc14181433dc071026cd910d633c0a8a1272b2"
+    },
+    {
+      "path": "assets/GrowthOpportunity-CaLzY-BN.css",
+      "size": 596,
+      "sha256": "37fe811df18c83df2a22f192fd5ff3657cd4e52dfe1677ca052f93fdcd7c6acf"
+    },
+    {
+      "path": "assets/GrowthOpportunity-rg8sKQst.js",
+      "size": 41948,
+      "sha256": "b32ba2c7fe35152e9661809b1682beeff8a65bda86535cbc3e41caf8d9492d6a"
+    },
+    {
       "path": "assets/guidance-drafts-B2KnLCgI.css",
       "size": 5169,
       "sha256": "fa689e9322e81b9463da94a2df0d39d79865176f0de71dd17b64bb4c80480ff7"
+    },
+    {
+      "path": "assets/GuidanceEditor-Bk6BlCxG.css",
+      "size": 5072,
+      "sha256": "bfe5be850b05df64a696618f0d8854e82742fd8bb5cc0e979723c440e0264682"
+    },
+    {
+      "path": "assets/GuidanceEditor-Cd03kha4.js",
+      "size": 110004,
+      "sha256": "dfe8de0beb5e23a2070a372c6ff00bf28f9d81efd399f9edb45b9f6b516e0bdb"
     },
     {
       "path": "assets/index-B4_tAyRp.css",
@@ -172,14 +122,44 @@
       "sha256": "c4d8766cbd3a9b467009dd6ddffaa57e449f3f91bb823b9d11df52fd940131b0"
     },
     {
-      "path": "assets/index-CVVbs18j.js",
-      "size": 518045,
-      "sha256": "df3511df5fd364ba7b8b7edf0139c3b05f18b513f68b77140f2ba3856f6c861c"
+      "path": "assets/index-PldrJfAd.js",
+      "size": 518066,
+      "sha256": "e4b926d88d1a7e1db201a3b338d8795bf3c86ca8d82034bc4f095b62c004a58f"
+    },
+    {
+      "path": "assets/LocalConditionClues-c3KFrczH.js",
+      "size": 48432,
+      "sha256": "6260fda19985f62b446006317067c2cccdfa353b211720a13b133ab8033c2369"
+    },
+    {
+      "path": "assets/MilestoneFeedback-8NVuNr2D.js",
+      "size": 1578,
+      "sha256": "1ab27d6766e28a09328b2d741dbac2a9b70766436c37230fc52c871d4721f3fe"
+    },
+    {
+      "path": "assets/MilestoneFeedback-m_Kg2Zb3.css",
+      "size": 778,
+      "sha256": "4a7c8acb5d31866a743efd4c3eef486dd414f6add778bb5160604169e7fdb441"
     },
     {
       "path": "assets/model-D_AkzfTJ.js",
       "size": 57942,
       "sha256": "8e11414e88275700bf183740aef34a189f6c1575eba105f5a6e699aa3eb99277"
+    },
+    {
+      "path": "assets/QuickCaptureEditor-fOGJyLlU.css",
+      "size": 380,
+      "sha256": "c71f12feba8205836ab820ae5bfc66e0d93a0de89f29cb4b554c35bc80ea69af"
+    },
+    {
+      "path": "assets/QuickCaptureEditor-x-07ZDOH.js",
+      "size": 16494,
+      "sha256": "d5151a96625aca9a34aeaf8891bada760572ff6c4ca53841a73c0f2d1a54f6ab"
+    },
+    {
+      "path": "assets/RecordRecovery-D5z6-Q_o.js",
+      "size": 4975,
+      "sha256": "384a8206b76d76322759078d083deeac0f3ddd01bc12aa393de09709c4f501d8"
     },
     {
       "path": "assets/save-DzJTxvCm.js",
@@ -202,6 +182,26 @@
       "sha256": "67f19e6fefd2de858ebb638b5d0b5ec6ec3c13b6b560a1e827616950b7ca7eb7"
     },
     {
+      "path": "assets/StarterMethodEditor-Cv73R5Q2.js",
+      "size": 3600,
+      "sha256": "826c3fa9db6654a56e1c37fc36a5d28f5e5ab16143e11168dbd3a32ae302a799"
+    },
+    {
+      "path": "assets/StarterScopeMarker-BUZcCNpQ.js",
+      "size": 2837,
+      "sha256": "11460e181568f9e824da8162a654fe1413eda565dc64ac511dd5c2f607ff7c02"
+    },
+    {
+      "path": "assets/StepCaptureEditor-8idLgiYI.css",
+      "size": 804,
+      "sha256": "46fb859515144f2b712297a5ab0d372c24bec3a1cfd388a47cee55f9e26a0dd5"
+    },
+    {
+      "path": "assets/StepCaptureEditor-pIxclzIp.js",
+      "size": 15468,
+      "sha256": "ed09cc5733b876b912659bf8ebba0f33f3ebbfff48fe1ee9a99fe1dc5f417463"
+    },
+    {
       "path": "assets/ui-runtime-Dg0PunWK.js",
       "size": 218824,
       "sha256": "d91f2fcf6d7ea5e0ad6388d0ffc24581af386931031cf215f136a0c17ee3cd86"
@@ -219,13 +219,16 @@
     {
       "path": "index.html",
       "size": 1375,
-      "sha256": "e4056ee9f3b73c5a0ac764e0d464b4bd9e94c97c7ea6c033640f04add6bdcf8c"
+      "sha256": "1406400f29c28e4465279e1d873ba09ae90d3afb33a812c95e82ab34b9343b29"
     },
     {
       "path": "life-rpg-offline-worker.js",
       "size": 10686,
-      "sha256": "257703d7f8d500cad0aa8f402dbd8069730f332a6f1bf63fb75e624fdf6261a9"
+      "sha256": "555a54bcfabcdb5296f0d0aa5b2f0fab0c2a4ba345c8b4e1369f70d35fdc9196"
     }
   ],
-  "siteUrl": "https://cadenxc.com/life-rpg-play/"
+  "siteUrl": "https://cadenxc.com/life-rpg-play/",
+  "coreTests": "AI guidance Playwright: 1 passed (mocked model); daily-plan: 21 passed; onboarding: 6 passed; production build and typecheck passed",
+  "workerUrl": "https://life-rpg-ai.cadenxc-life-rpg.workers.dev",
+  "verifiedAt": "2026-10-07T10:58:33.372Z"
 }
