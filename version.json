@@ -6,7 +6,7 @@
   "status": "validated-static-trial",
   "typecheck": "passed",
   "productionBuild": "passed-with-chunk-size-warning",
-  "fullRegression": "passed: 667 tests covered; initial 660 pass, the two corrected cases passed in isolated reruns, and relevant suites fully passed",
+  "fullRegression": "passed with 5 skipped: initial full run had 660 passing and 2 failing tests; both failures passed after fixes, with daily-plan 21/21 and onboarding 6/6 passing on rerun",
   "mainBackupVersion": 18,
   "guidanceDraftVersion": 12,
   "suggestionProtocolVersion": 1,
@@ -228,7 +228,7 @@
     }
   ],
   "siteUrl": "https://cadenxc.com/life-rpg-play/",
-  "coreTests": "AI guidance Playwright: 1 passed (mocked model); daily-plan: 21 passed; onboarding: 6 passed; production build and typecheck passed",
+  "coreTests": "AI guidance Playwright: 1 passed (mocked model); daily-plan: 21 passed; onboarding: 6 passed; production build/typecheck passed; 5 full-suite tests skipped",
   "workerUrl": "https://life-rpg-ai.cadenxc-life-rpg.workers.dev",
-  "verifiedAt": "2026-10-07T10:58:33.372Z"
+  "verifiedAt": "2026-10-07T11:00:23.900Z"
 }
