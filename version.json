@@ -1,233 +1,253 @@
 {
-  "version": "0.1.0-github-ai-login-redirect.20261008",
+  "version": "0.1.0-habitica-trial.20261009",
   "packageVersion": "0.1.0",
-  "createdAt": "2026-10-08T13:33:54.897Z",
+  "createdAt": "2026-10-08T23:23:09.158Z",
   "basePath": "/life-rpg-play/",
-  "status": "verified-auth-candidate",
+  "status": "verified-static-release",
   "siteUrl": "https://cadenxc.com/life-rpg-play/",
+  "sourceCommit": "6e15989cba526a34a3ebf03db79612d7ec18dcce",
   "typecheck": "passed",
   "productionBuild": "passed-with-chunk-size-warning",
-  "workerAuthChecks": "9 passed",
-  "relatedBrowserChecks": "4 passed with mocked OAuth and AI",
-  "fullRegression": "not rerun for this auth change",
-  "mainBackupVersion": 18,
+  "coreTests": 821,
+  "fullRegression": {
+    "browserTests": 721,
+    "result": "passed",
+    "synthetic": true
+  },
+  "mainBackupVersion": 20,
   "guidanceDraftVersion": 12,
   "suggestionProtocolVersion": 1,
+  "sourceFingerprint": "b78c3fdd7b2e79e06bb57960e5c97b487f6632288762a869eb13f46abedde9bd",
   "files": [
     {
-      "path": "assets/AbilitySources-ChVhZQoc.js",
-      "size": 22099,
-      "sha256": "6c00691b6457f2af60ea41e4a83c684f891041a11743ba76f5752a791fa2b67e"
+      "path": "assets/AbilitySources-CqVdsZzg.js",
+      "bytes": 23482,
+      "sha256": "c3d14c0ddbd5803f102d1fea6f8aab035fef6681e5d8e1b8d3f6fd15c814bd9f"
     },
     {
       "path": "assets/AbilitySources-D9xehR6C.css",
-      "size": 4552,
+      "bytes": 4552,
       "sha256": "cfce1ebe68f841d9fe800d4c44b420deecf9eaa754b92da6626957de0975b25c"
     },
     {
-      "path": "assets/Adventure-BLnp_kET.js",
-      "size": 231409,
-      "sha256": "41f0e32b5b82f862619c2c423a41971ea6409f7430dfe90ba1a2f55baf242fff"
+      "path": "assets/Adventure-BBHnR8xk.css",
+      "bytes": 43375,
+      "sha256": "fffda1044f80173ecbf92dbcb6cecf30f7b47ff16e15dec85bfa88b25b18511e"
     },
     {
-      "path": "assets/Adventure-BR3UyUf9.css",
-      "size": 41416,
-      "sha256": "9425ee46ab23ab4051b10363f3e485165753bd0391880b0246929d344c2ce0a8"
+      "path": "assets/Adventure-By3Rx571.js",
+      "bytes": 247211,
+      "sha256": "3e93f06da6632319d08c4df9b408b63b6c91e1445e654982daea72b531fed568"
     },
     {
-      "path": "assets/companion-dawn-state-jVogSISM.js",
-      "size": 8107,
-      "sha256": "2fede990c557e2f608eea27257dd57014de0f6a78c1cef7cd77ef1592c75b546"
-    },
-    {
-      "path": "assets/companion-ferry-journal-DAsKeoaH.js",
-      "size": 53041,
-      "sha256": "9a1eeb1ddc7e0f1454704c3f1a8f46dfb5d86a222a0492d9ec78ff1170ac5760"
+      "path": "assets/companion-dawn-state-Dxxs1uow.js",
+      "bytes": 8107,
+      "sha256": "acadaa8d3970cb288f41d3c417b445c7732d9f321ba87480ed9a648eab0a1b16"
     },
     {
       "path": "assets/companion-ferry-meta-Czv_ZwZE.js",
-      "size": 8510,
+      "bytes": 8510,
       "sha256": "0f27966830076359e465b4133657604847e1bd28f83cc9aae0a87937f7a3a042"
     },
     {
-      "path": "assets/companion-ferry-state-DoiJe0Mv.js",
-      "size": 4887,
-      "sha256": "074ef8d1bf0f56ee4c19aa31d5e014b60cca35eb7878bec7f802bb9e5240abdd"
+      "path": "assets/companion-ferry-state-B2rEZstO.js",
+      "bytes": 4887,
+      "sha256": "44c57d4060460abdc978370c6d1ca7dd5595a5f9331ebfb205a128a5b11d953c"
     },
     {
-      "path": "assets/CompanionPresence-BTcU6vEU.js",
-      "size": 2966,
-      "sha256": "1fdac7674b127db85f82606fdd0ec6da16d1c782e5e84b43945fc11a93754266"
+      "path": "assets/companion-watch-journal-6f2jye6e.js",
+      "bytes": 66956,
+      "sha256": "fc723214674e29fadda53e5d5e2744a29c4681e2d4cb002fc8052e0d8df0be9a"
     },
     {
-      "path": "assets/CompanionRememberedWords-SoILXu7Q.js",
-      "size": 2724,
-      "sha256": "171cac63a1630cf19a0abfca3a12c3fab008fb963b3b5567c782357b0d35ebe9"
+      "path": "assets/companion-watch-meta-DtNdws0A.js",
+      "bytes": 2813,
+      "sha256": "880229e778b3c6d9f3ebfdee1e935c8dcd802645eb1eca4690e527a9fc0cd30c"
     },
     {
-      "path": "assets/DailyPlanDialog-F02rZc_w.js",
-      "size": 17208,
-      "sha256": "e55972844eecfa525079f61ff22a1fd210cc36fe82ba3904fc1378ea6bf832bc"
+      "path": "assets/companion-watch-state-DfveqyE5.js",
+      "bytes": 5924,
+      "sha256": "c7894c5ef281508364f126719db454da6cb858bdd3546703581015d19fde0aaf"
     },
     {
-      "path": "assets/DraftManager-COl4lsM0.js",
-      "size": 23267,
-      "sha256": "d3a2f986b2cf5cc51660518ddf6bd404b871dfbe2816bc0ddbffec4b079d3134"
+      "path": "assets/CompanionPresence-D3j0oUVo.js",
+      "bytes": 3349,
+      "sha256": "4f312145bb575d83a29195e0815a0685aa9281e82ebda7815045270b937745fe"
+    },
+    {
+      "path": "assets/CompanionRememberedWords-CARWWVHf.js",
+      "bytes": 3039,
+      "sha256": "cd5deb73eafce7298a939f5f77845cebe11594ffb43af2e4cb64ed18aceaf50c"
+    },
+    {
+      "path": "assets/DailyPlanDialog-FOJyJrJg.js",
+      "bytes": 17208,
+      "sha256": "dfa1ce1e20f639356850a231eab7ff3d795c39d25828d50663ef0bb2f033c4d8"
+    },
+    {
+      "path": "assets/DraftManager-CRCe5f4a.js",
+      "bytes": 23240,
+      "sha256": "6aa278bcdd6a0aae5058ec3753d3d1048e0f63a428451f9e27eece9de6dae54e"
+    },
+    {
+      "path": "assets/GoalStarterMethodEditor-CmrmxDo3.js",
+      "bytes": 8621,
+      "sha256": "10730f354e4672accb5f4ffb486e9cc0c97e50b27e2aa07f00da43bc0d5c35e0"
     },
     {
       "path": "assets/GoalStarterMethodEditor-D5xklhBR.css",
-      "size": 482,
+      "bytes": 482,
       "sha256": "6a07a57b86a4d3119e11cfeed978e1d7808e829540812140051eae3ae3d4f3f1"
     },
     {
-      "path": "assets/GoalStarterMethodEditor-DxE7NHTv.js",
-      "size": 8621,
-      "sha256": "76891382ddc352012ae9f068fce1ac92f29316167cfe6fd8ff9c452cd094700f"
-    },
-    {
-      "path": "assets/Growth-BhPAe6Sz.js",
-      "size": 26058,
-      "sha256": "89df72cceff2f6880195bad24aa340ba16e7b6c695459229d9c6eda3b932fdc1"
-    },
-    {
       "path": "assets/Growth-BUXozbJh.css",
-      "size": 4777,
+      "bytes": 4777,
       "sha256": "f00ca1da3f28daf9e715925913fc14181433dc071026cd910d633c0a8a1272b2"
     },
     {
+      "path": "assets/Growth-By_uQkXa.js",
+      "bytes": 26033,
+      "sha256": "2d07863c5eee4333d89e4d4be18e14b551729278321311962e07981ea444d1ca"
+    },
+    {
+      "path": "assets/GrowthOpportunity-B5_suqcs.js",
+      "bytes": 42420,
+      "sha256": "905c5cc0b4c587e14cd34c9287544ef0873c91dc3e9b8135aa8fc5466cf53bcd"
+    },
+    {
       "path": "assets/GrowthOpportunity-CaLzY-BN.css",
-      "size": 596,
+      "bytes": 596,
       "sha256": "37fe811df18c83df2a22f192fd5ff3657cd4e52dfe1677ca052f93fdcd7c6acf"
     },
     {
-      "path": "assets/GrowthOpportunity-CFoXv1dR.js",
-      "size": 41948,
-      "sha256": "7037b248ad1758a5bb744515ed5b55b75ba365f16b7ca31ecf92b3b550ffe93d"
-    },
-    {
       "path": "assets/guidance-drafts-B2KnLCgI.css",
-      "size": 5169,
+      "bytes": 5169,
       "sha256": "fa689e9322e81b9463da94a2df0d39d79865176f0de71dd17b64bb4c80480ff7"
     },
     {
-      "path": "assets/GuidanceEditor-Bk6BlCxG.css",
-      "size": 5072,
-      "sha256": "bfe5be850b05df64a696618f0d8854e82742fd8bb5cc0e979723c440e0264682"
+      "path": "assets/GuidanceEditor-CfeEt_lR.js",
+      "bytes": 108732,
+      "sha256": "32ed31002fc74903da0e23717e944a011fd9d1b35491404ce27fa6c5af7e3d52"
     },
     {
-      "path": "assets/GuidanceEditor-DKhKVKk9.js",
-      "size": 107904,
-      "sha256": "1b066e9a82e1e5c00df1d5bc4fd558103335727d1488d9bb19e697687b6318b7"
+      "path": "assets/GuidanceEditor-hEFB6-c3.css",
+      "bytes": 7412,
+      "sha256": "506e0160bcbebde5d37ceeda1a92383ba9c426944765bc61aba4e50eaf27c776"
     },
     {
-      "path": "assets/index-8sJK8PVu.js",
-      "size": 522625,
-      "sha256": "ed351b43865152ec00b1b1402c4136d42651b0fa860aab7d1ce416616a38daf6"
+      "path": "assets/HabiticaImport-CpZ6rig5.css",
+      "bytes": 832,
+      "sha256": "57ecd85f6e1216235c8a4e52c68eda4651a56339b4e94238400671e6cbde3ee5"
     },
     {
-      "path": "assets/index-B4_tAyRp.css",
-      "size": 51582,
-      "sha256": "c4d8766cbd3a9b467009dd6ddffaa57e449f3f91bb823b9d11df52fd940131b0"
+      "path": "assets/HabiticaImport-D4OVSjLE.js",
+      "bytes": 12351,
+      "sha256": "d010484ebbff0ffb2a2b04f88fe363ada6da534d4354ff09937ba9e65ae1c1bc"
     },
     {
-      "path": "assets/LocalConditionClues-XxqZfA2k.js",
-      "size": 48432,
-      "sha256": "32554f08b308311c04a8f845629ffa13320feda123864486dffa380c1694dc25"
+      "path": "assets/index-BlK-c1GE.js",
+      "bytes": 550120,
+      "sha256": "1136eb58442c621ae7e18e5697fc2b1ad25b550be38e087b5a94b841f75df39b"
+    },
+    {
+      "path": "assets/index-C1T8n32b.css",
+      "bytes": 58115,
+      "sha256": "b6e0a22b755ace08e8f93dac0c148ea51d491345a7244f5c5aed4a74dc7a96ab"
+    },
+    {
+      "path": "assets/LocalConditionClues-DfaPURH-.js",
+      "bytes": 48432,
+      "sha256": "9d462546fd9c396178dc16a515803a5bbedfe7938e2fbee51919cd9332ad8cff"
+    },
+    {
+      "path": "assets/MilestoneFeedback-DrVtfEoh.js",
+      "bytes": 1555,
+      "sha256": "bb718b34536853973e479a7368fd88205296178836915f628d2ea956d209a1bd"
     },
     {
       "path": "assets/MilestoneFeedback-m_Kg2Zb3.css",
-      "size": 778,
+      "bytes": 778,
       "sha256": "4a7c8acb5d31866a743efd4c3eef486dd414f6add778bb5160604169e7fdb441"
     },
     {
-      "path": "assets/MilestoneFeedback-uzteJ-kI.js",
-      "size": 1578,
-      "sha256": "2ec19fa854a9e463d866ef256ebaa1d4aaa12435dac9a21aceda447f04eb50d5"
+      "path": "assets/model-TntchJ9f.js",
+      "bytes": 61172,
+      "sha256": "53d9aae7f148b64623ba59f83c84f54d6cf3f0839ad71a7f36de391c93e7deb4"
     },
     {
-      "path": "assets/model-D_AkzfTJ.js",
-      "size": 57942,
-      "sha256": "8e11414e88275700bf183740aef34a189f6c1575eba105f5a6e699aa3eb99277"
-    },
-    {
-      "path": "assets/QuickCaptureEditor-CabxPLcz.js",
-      "size": 16494,
-      "sha256": "17ae1144a68f33f1064147db8272fd4cfbaac61a1c86056c1d4b60881fc465c1"
+      "path": "assets/QuickCaptureEditor-DsgqCdd1.js",
+      "bytes": 16499,
+      "sha256": "582bab42b3cbd995f6523bc897a3e1c5a1316e3da61e72bbc35ebc211a3089f6"
     },
     {
       "path": "assets/QuickCaptureEditor-fOGJyLlU.css",
-      "size": 380,
+      "bytes": 380,
       "sha256": "c71f12feba8205836ab820ae5bfc66e0d93a0de89f29cb4b554c35bc80ea69af"
     },
     {
-      "path": "assets/RecordRecovery-C_7TKG6K.js",
-      "size": 4975,
-      "sha256": "3fadfd760585080c48088a60e424c75e36ece92db5a41d54e573b1373cda3f60"
+      "path": "assets/RecordRecovery-Bvp4eNr5.js",
+      "bytes": 4975,
+      "sha256": "db06c572b725836b620a78028ab79b4ce8ce2ee314e942852cb25a4443c65c37"
     },
     {
-      "path": "assets/save-DzJTxvCm.js",
-      "size": 312,
-      "sha256": "9678b3248b24669dced6a1c5dd9dd93fe82be4c3dbde8cd9c19c7415d09e7efe"
+      "path": "assets/save-EveCboRP.js",
+      "bytes": 317,
+      "sha256": "f3f6cb502b5797555c089f4261d7060a054422dc115aaa41d6b80c5501182913"
     },
     {
-      "path": "assets/schemas-n9i_8l1c.js",
-      "size": 87361,
-      "sha256": "28086dfeddb9f1dc0f6ca2573ea0e390f89813e1f15d78dc2ad1fca274e525cb"
+      "path": "assets/schemas-CApDvOU8.js",
+      "bytes": 87492,
+      "sha256": "54e72bca304fc98df768c6e47d92473f8b7609f1bd5173d4215d5543bf901ab2"
     },
     {
-      "path": "assets/starter-method-state-DDyj-3RQ.js",
-      "size": 1886,
-      "sha256": "0ac63ca5868dc54cf01704c1aa956894cc6e7f5bed5cc1b6f6e8f51938b77435"
+      "path": "assets/starter-method-state-DTzdQBMr.js",
+      "bytes": 1886,
+      "sha256": "8786421726caff386cddeedf87556d0fe361bb6c0e054f66ebf8aa4a1d3d6788"
     },
     {
-      "path": "assets/starter-methods-DRw8tz8l.js",
-      "size": 1489,
-      "sha256": "67f19e6fefd2de858ebb638b5d0b5ec6ec3c13b6b560a1e827616950b7ca7eb7"
+      "path": "assets/starter-methods-BKj_Yzqa.js",
+      "bytes": 1489,
+      "sha256": "3615c57fdb8f40cac4d96031fb75d38154b987922fb8b710648540eace8dc42c"
     },
     {
-      "path": "assets/StarterMethodEditor-BOHCLB3Y.js",
-      "size": 3600,
-      "sha256": "24bedbcb9122f3b31e9132649a3b920b5ee1f9c0972ecdd5fd681c43d8e0aca9"
+      "path": "assets/StarterMethodEditor-AngDcrZY.js",
+      "bytes": 3600,
+      "sha256": "2226efeb68bf54ef72c0c0c503258f6a8a1122f4e337ff74dd0a55cc2fe70e7d"
     },
     {
-      "path": "assets/StarterScopeMarker-C04NF4P-.js",
-      "size": 2837,
-      "sha256": "45654909c813a3d1a54defcfca3e4b9718d17c8395045f68d56f505a34b2fe6a"
+      "path": "assets/StarterScopeMarker-xsM8RrRS.js",
+      "bytes": 2837,
+      "sha256": "bd8889dee620d92125e71b2c00ce859c4fe236d7f1a4c90b296644d67ccb5d29"
     },
     {
       "path": "assets/StepCaptureEditor-8idLgiYI.css",
-      "size": 804,
+      "bytes": 804,
       "sha256": "46fb859515144f2b712297a5ab0d372c24bec3a1cfd388a47cee55f9e26a0dd5"
     },
     {
-      "path": "assets/StepCaptureEditor-BeGBl4bo.js",
-      "size": 15468,
-      "sha256": "8f5a74ed2aa3ca824cd29712693324043f5a64d517c05bb36014018f9f542433"
+      "path": "assets/StepCaptureEditor-BTSDrqAO.js",
+      "bytes": 15468,
+      "sha256": "254d0f2305eda5e7d5f6f9caad380695193b01225fd58f69dfa2be143022b057"
     },
     {
-      "path": "assets/ui-runtime-Dg0PunWK.js",
-      "size": 218824,
-      "sha256": "d91f2fcf6d7ea5e0ad6388d0ffc24581af386931031cf215f136a0c17ee3cd86"
+      "path": "assets/ui-runtime-k-0UFiBe.js",
+      "bytes": 218824,
+      "sha256": "2366f6b65a5e66e65fa2967704474030e85cb64dbee8ef6f726f25232512ee56"
     },
     {
-      "path": "assets/use-dialog-focus-_gvHfI_d.js",
-      "size": 436,
-      "sha256": "21b75bbd62468dddcf2afb07da890a40a44f4fa750540500e0d96babe2fcc028"
-    },
-    {
-      "path": "assets/x-CchUc5zq.js",
-      "size": 1038,
-      "sha256": "fbffeafc0b316fd504474c2cb8d203613ec224913fe5413246f0179b16f3614b"
+      "path": "assets/WatchPlan-kJSRjU0_.js",
+      "bytes": 5558,
+      "sha256": "4196f908b64ecbb240a0b8f889bfbe9b77017c1aa3efe8389726f54544d785bd"
     },
     {
       "path": "index.html",
-      "size": 1375,
-      "sha256": "b962f79d69219bb428886a20e9d40f6191c58d32bf3d72457ae56ef47dc6f014"
+      "bytes": 1399,
+      "sha256": "4c5f04eff752ad6cc488fd6460164d3efe63a94f1c10c191fbd9731120d5f3e5"
     },
     {
       "path": "life-rpg-offline-worker.js",
-      "size": 10686,
-      "sha256": "3b2ffdec32c7389a97eec387a50d9ce3e6f763125e2bc29847da55e7f99293d6"
+      "bytes": 11154,
+      "sha256": "c28170d01ff4ebf2e9c87d3015ca5f8622183541bc370f882c5ffc50a3bfac3e"
     }
   ]
 }
